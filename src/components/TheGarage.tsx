@@ -8,8 +8,8 @@ import { GearHeading } from "./GearHeading";
 
 const PROJECT_CLAUSES: Record<string, React.ReactNode[]> = {
   "klerk-ai": [
-    <>Turns a WhatsApp message into a filed invoice </>,
-    <>— no human required.</>,
+    <>AI-powered accounting automation that turns WhatsApp and Gmail documents into structured, validated accounting records.</>,
+    <>— Automates OCR, data extraction, anomaly detection, filing, ledger updates, and RAG-based document search.</>,
   ],
   "jobjutsu-ai": [
     <>Reads your resume, </>,
