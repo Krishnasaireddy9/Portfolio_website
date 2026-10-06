@@ -10,8 +10,8 @@ export const personalInfo: PersonalInfo = {
     "AI/ML and full-stack engineer who ships LLM applications end to end — LangGraph multi-agent workflows, Retrieval-Augmented Generation, OCR-based document extraction, and the REST APIs, in Python and Node.js/TypeScript, that put them in front of users. Deployed on Vercel, Render, and Hugging Face Spaces. Published research on deep learning for medical image classification.",
   logline:
     "I don't just train models — I ship the products they live in.",
-  githubUrl: process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/krishnasai2004",
-  linkedinUrl: process.env.NEXT_PUBLIC_LINKEDIN_URL || "https://linkedin.com/in/krishnasai2004",
+  githubUrl: process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Krishnasaireddy9",
+  linkedinUrl: process.env.NEXT_PUBLIC_LINKEDIN_URL || "https://www.linkedin.com/in/krishna-sai-reddy-alla-b96632245",
   huggingfaceUrl: process.env.NEXT_PUBLIC_HUGGINGFACE_URL || "https://huggingface.co/krishnasai2004",
   resumeUrl: process.env.NEXT_PUBLIC_RESUME_URL || "/resume.pdf",
 };
